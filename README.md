@@ -26,9 +26,9 @@ const baisil = {
   ],
 
   certifiedIn: [
-    "UiPath RPA Developer ✅",
-    "Automation Anywhere Certified Developer ✅",
-    "Microsoft PL-500: Power Platform Solution Architect ✅",
+    "UiPath RPA Developer ",
+    "Automation Anywhere Certified Developer ",
+    "Microsoft PL-500: Power Platform Solution Architect ",
   ],
 
   expertise:   [

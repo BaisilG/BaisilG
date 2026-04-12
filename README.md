@@ -22,7 +22,7 @@ const baisil = {
   certifiedIn: [
     "UiPath RPA Developer ✅",
     "Automation Anywhere Certified Developer ✅",
-    "Microsoft PL-500 — Power Automate ✅",
+    "Microsoft PL-500: Power Automate ✅",
   ],
   powerPlatform: ["Power Automate", "Power Apps", "Power BI", "SharePoint"],
   building:    "Nonprofit projects that solve real problems 💚",
@@ -47,11 +47,11 @@ const baisil = {
 
 ## 🚀 What I'm About
 
-Outside of my professional life, I dedicate my spare time to building things that genuinely help people. Over the years I've quietly shipped multiple personal projects across health, finance, productivity, and automation — all completely free, nonprofit, and community-driven. No paywalls, no ads, no agenda. Just a passion for solving real problems with technology.
+Outside of my professional life, I dedicate my spare time to building things that genuinely help people. Over the years I've quietly shipped multiple personal projects across health, finance, productivity, and automation. All completely free, nonprofit, and community-driven. No paywalls, no ads, no agenda. Just a passion for solving real problems with technology.
 
-Every project I build starts with a simple question: *"Would this make someone's life a little easier?"* If the answer is yes, I build it, ship it, and keep it running. Some have grown to serve thousands of users without ever being promoted — purely through word of mouth and organic discovery.
+Every project I build starts with a simple question: *"Would this make someone's life a little easier?"* If the answer is yes, I build it, ship it, and keep it running. Some have grown to serve thousands of users without ever being promoted, purely through word of mouth and organic discovery.
 
-I believe technology should be accessible to everyone, and that the best way to grow as a developer is to keep building things that matter — even if nobody's watching. 🌱
+I believe technology should be accessible to everyone, and that the best way to grow as a developer is to keep building things that matter, even if nobody's watching. 🌱
 
 <div align="center">
 

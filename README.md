@@ -1,18 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6,a78bfa&height=200&section=header&text=Baisil%20Geevarghese&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Enthusiast%20%7C%20Nonprofit%20Builder%20%7C%20London%2C%20UK&descAlignY=58&descSize=17&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Enthusiast+%F0%9F%A4%96;RPA+Certified+Developer+%F0%9F%8F%86;Microsoft+PL-500+%7C+Power+Platform+%E2%9C%85;Building+nonprofit+projects+for+good+%F0%9F%92%9A;Passionate+about+future+tech+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Baisil+%F0%9F%91%8B;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;RPA+Certified+Developer+%F0%9F%8F%86;Building+nonprofit+projects+for+good+%F0%9F%92%9A;Passionate+about+future+tech+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 [![DevHexLab](https://img.shields.io/badge/%F0%9F%94%A5_devhexlab.com-6366f1?style=for-the-badge)](https://www.devhexlab.com)
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90_baisil.com-8b5cf6?style=for-the-badge)](https://baisil.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BaisilG-181717?style=for-the-badge&logo=github)](https://github.com/BaisilG)
-
-<br/>
 
 </div>
 
@@ -60,7 +54,7 @@ const baisil = {
 
 | Project | Purpose | Status |
 |---|---|---|
-| 🌐 [devhexlab.com](https://www.devhexlab.com) | Tech hub and experiments | 🟢 Live |
+| 🔥 [devhexlab.com](https://www.devhexlab.com) | Tech hub and experiments | 🟢 Live |
 | 💚 [myvitalshub.com](https://www.myvitalshub.com) | 100 free health calculators | 🟢 Live |
 
 </div>
@@ -104,12 +98,6 @@ const baisil = {
 
 </div>
 
-<div align="center">
-
-<img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=BaisilG&bg_color=faf5ff&color=8b5cf6&line=6366f1&point=8b5cf6&area=true&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -117,8 +105,6 @@ const baisil = {
 ### 💬 &nbsp; *"Automate the routine. Focus on the meaningful."*
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6,a78bfa&height=100&section=footer&animation=fadeIn" />
 
 <img src="https://komarev.com/ghpvc/?username=BaisilG&color=8b5cf6&style=flat-square&label=Profile+Views" />
 

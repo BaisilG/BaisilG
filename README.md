@@ -55,7 +55,6 @@ const baisil = {
 | Project | Purpose | Status |
 |---|---|---|
 | 🔥 [devhexlab.com](https://www.devhexlab.com) | Tech hub and experiments | 🟢 Live |
-| 💚 [myvitalshub.com](https://www.myvitalshub.com) | 100 free health calculators | 🟢 Live |
 
 </div>
 

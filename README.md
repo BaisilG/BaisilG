@@ -16,7 +16,7 @@
 
 ```typescript
 const baisil = {
-  title:       "Solution Architect | AI & Automation Specialist",
+  title:       "AI & Automation Specialist | Visioary Solution Builder/Architect  ",
   location:    "London, UK 🇬🇧",
 
   approach:    [

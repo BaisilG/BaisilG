@@ -45,16 +45,28 @@ const baisil = {
 
 ---
 
-## 🌱 What I Build
+## 🚀 What I've Shipped
 
-> I spend my spare time building **free, nonprofit projects** that are publicly available and help people.
-> All projects here are personal passion projects — built to learn, give back, and solve real problems.
+> Passionate about building and launching real products. All projects below are live and actively used.
 
 <div align="center">
 
-| Project | Purpose | Status |
-|---|---|---|
-| 🔥 [devhexlab.com](https://www.devhexlab.com) | Tech hub and experiments | 🟢 Live |
+| | Project | Category | Stack | Status |
+|---|---|---|---|---|
+| 🔥 | [DevHexLab](https://www.devhexlab.com) | Tech Hub | Next.js, TypeScript | 🟢 Live |
+| 💚 | Health Calculator Platform | Health Tech | Next.js, Tailwind | 🟢 Live |
+| 💷 | Finance Tools Suite | FinTech | Next.js, TypeScript | 🟢 Live |
+| 🤖 | Automation Workflows | RPA & AI | Power Automate, UiPath | 🟢 Deployed |
+| 📊 | Data Dashboards | Analytics | Power BI, SharePoint | 🟢 In Use |
+| 📱 | Mobile Application | React Native | React Native, Firebase | 🟢 Live |
+
+</div>
+
+<div align="center">
+
+![Projects](https://img.shields.io/badge/Projects_Shipped-6+-6366f1?style=for-the-badge)
+![Users](https://img.shields.io/badge/All_Projects-Live-22c55e?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Full_Stack-Web_%26_Mobile-8b5cf6?style=for-the-badge)
 
 </div>
 

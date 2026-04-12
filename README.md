@@ -9,6 +9,7 @@
 <br/>
 
 [![DevHexLab](https://img.shields.io/badge/%F0%9F%94%A5_devhexlab.com-6366f1?style=for-the-badge)](https://www.devhexlab.com)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_baisil.com-8b5cf6?style=for-the-badge)](https://baisil.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BaisilG-181717?style=for-the-badge&logo=github)](https://github.com/BaisilG)
 
 <br/>

@@ -125,8 +125,9 @@ Every project starts with a problem worth solving, not a technology worth using.
 I believe the best solutions are the ones people never have to think about. They just work. 🌱
 
 <div align="center">
-[![DevHexLab](https://img.shields.io/badge/See_my_work-devhexlab.com-6366f1?style=for-the-badge)](https://www.devhexlab.com)
-[![PathCert](https://img.shields.io/badge/%F0%9F%94%A7_pathcert.com-0ea5e9?style=for-the-badge)](https://www.pathcert.com/)
+
+[![DevHexLab](https://img.shields.io/badge/%F0%9F%94%A5_View_Projects-devhexlab.com-6366f1?style=for-the-badge)](https://www.devhexlab.com)
+[![PathCert](https://img.shields.io/badge/%F0%9F%9A%80_Launch_PathCert-0ea5e9?style=for-the-badge)](https://www.pathcert.com/)
 
 </div>
 

@@ -7,8 +7,11 @@
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90_baisil.com-8b5cf6?style=for-the-badge)](https://baisil.com)
 [![DevHexLab](https://img.shields.io/badge/%F0%9F%94%A5_devhexlab.com-6366f1?style=for-the-badge)](https://www.devhexlab.com)
 [![PathCert](https://img.shields.io/badge/%F0%9F%94%A7_pathcert.com-0ea5e9?style=for-the-badge)](https://www.pathcert.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-BaisilG-181717?style=for-the-badge&logo=github)](https://gith
+[![GitHub](https://img.shields.io/badge/GitHub-BaisilG-181717?style=for-the-badge&logo=github)](https://github.com/BaisilG)
+
 </div>
+
+---
 
 ---
 

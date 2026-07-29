@@ -184,6 +184,23 @@ I believe the best solutions are the ones people never have to think about. They
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | What it does |
+|---|---|
+| **[DevHexLab](https://www.devhexlab.com)** | 200+ free developer tools. No login, no ads, everything runs in your browser |
+| **[FlowDoc Pro](https://www.devhexlab.com/flowdoc-pro)** | Generates Power Automate documentation, diagrams, and handover packs |
+| **[FlowLens AI](https://www.devhexlab.com/flowlensai)** | Screen aware AI troubleshooting assistant for Power Platform makers |
+| **[MakerOps Radar](https://www.devhexlab.com/makerops-radar)** | Governance and risk scanning across Power Platform environments |
+
+[![All Extensions](https://img.shields.io/badge/Browse_all_extensions-devhexlab.com-6366f1?style=for-the-badge)](https://www.devhexlab.com/extensions)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

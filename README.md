@@ -77,12 +77,18 @@ const baisil = {
 
 <div align="center">
 
+<a href="https://www.bcs.org/validate-your-digital-badge/?credential=c5183ca4-2de0-4492-a69f-6bd3025ee0bb">
+  <img height="130" src="https://bcs.digitalmembership.co.uk/resources/img/pin-professional.jpg" alt="BCS Professional Member, The Chartered Institute for IT" />
+</a>
+
+<br/>
+
+[![BCS Professional Member](https://img.shields.io/badge/BCS-Professional_Member-1B3A6B?style=for-the-badge)](https://www.bcs.org/validate-your-digital-badge/?credential=c5183ca4-2de0-4492-a69f-6bd3025ee0bb)
 [![AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/f1d793c2-c63b-418a-87e6-04a1329e185d/public_url)
 [![Agents League](https://img.shields.io/badge/Agents_League-Reasoning_Agents-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white)](https://globalai.community/badges/657d5bb7-9b51-4106-8f73-6fb95158c514)
 [![Agent Academy Hackathon](https://img.shields.io/badge/Agent_Academy-Hackathon_Participant-6366F1?style=for-the-badge&logo=microsoft&logoColor=white)](https://globalai.community/badges/73d6843c-e127-4eb9-a492-7cc7c020528c)
-[![BCS](https://img.shields.io/badge/BCS-The_Chartered_Institute_for_IT-1B3A6B?style=for-the-badge)](https://www.bcs.org/validate-your-digital-badge/?credential=c5183ca4-2de0-4492-a69f-6bd3025ee0bb)
 
-<sub>Every badge above links to its official verification page</sub>
+<sub>Every badge links to its official verification page</sub>
 
 </div>
 

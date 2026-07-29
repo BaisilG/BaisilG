@@ -83,7 +83,7 @@ const baisil = {
 <div align="center">
 
 <a href="https://www.bcs.org/validate-your-digital-badge/?credential=c5183ca4-2de0-4492-a69f-6bd3025ee0bb">
-  <img height="130" src="https://bcs.digitalmembership.co.uk/resources/img/pin-professional.jpg" alt="BCS Professional Member, The Chartered Institute for IT" />
+  <img height="130" src="https://bcs.digitalmembership.co.uk/B965C24/SYN003_BCS_DigitalMembership_files/A5F53C0AEF1EC0102B01EDD910969BCDDA0DABD3.png" alt="BCS Membership, The Chartered Institute for IT" />
 </a>
 
 <br/>

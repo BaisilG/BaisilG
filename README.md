@@ -102,12 +102,25 @@ const baisil = {
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365 Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+![Copilot Cowork](https://img.shields.io/badge/Copilot_Cowork-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF6C37?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+**🧠 AI Practice & Responsible Delivery**
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6366F1?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Applied AI](https://img.shields.io/badge/Applied_AI-7C3AED?style=for-the-badge&logoColor=white)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-059669?style=for-the-badge&logoColor=white)
+![AI Ethics](https://img.shields.io/badge/AI_Ethics-10B981?style=for-the-badge&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-0EA5E9?style=for-the-badge&logoColor=white)
 
 **🏗️ Solution Architecture & Platforms**
 

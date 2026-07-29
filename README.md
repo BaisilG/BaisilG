@@ -73,6 +73,21 @@ const baisil = {
 
 ---
 
+## 🎖️ Badges & Achievements
+
+<div align="center">
+
+[![AI Skills Fest 2026](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/f1d793c2-c63b-418a-87e6-04a1329e185d/public_url)
+[![Agents League](https://img.shields.io/badge/Agents_League-Reasoning_Agents-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white)](https://globalai.community/badges/657d5bb7-9b51-4106-8f73-6fb95158c514)
+[![Agent Academy Hackathon](https://img.shields.io/badge/Agent_Academy-Hackathon_Participant-6366F1?style=for-the-badge&logo=microsoft&logoColor=white)](https://globalai.community/badges/73d6843c-e127-4eb9-a492-7cc7c020528c)
+[![BCS](https://img.shields.io/badge/BCS-The_Chartered_Institute_for_IT-1B3A6B?style=for-the-badge)](https://www.bcs.org/validate-your-digital-badge/?credential=c5183ca4-2de0-4492-a69f-6bd3025ee0bb)
+
+<sub>Every badge above links to its official verification page</sub>
+
+</div>
+
+---
+
 ## 🛠️ Solution Stack
 
 **🤖 AI & Intelligent Automation**
@@ -107,6 +122,15 @@ const baisil = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+**🧩 Browser Extensions & Mobile**
+
+![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Published-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Edge Add-ons](https://img.shields.io/badge/Edge_Add--ons-Published-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Manifest_V3-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
 **🗄️ Data & Integration**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -120,6 +144,8 @@ const baisil = {
 ## 🚀 What I Build
 
 Outside of my professional life, I dedicate my spare time to building things that genuinely help people. Over the years I've quietly shipped multiple personal projects across health, finance, productivity, and automation. All completely free, nonprofit, and community-driven. No paywalls, no ads, no agenda. Just a passion for solving real problems with technology.
+
+That work spans **browser extensions** published on both the Chrome Web Store and Microsoft Edge Add-ons, **mobile applications**, and a long list of **websites and web tools** designed, built, and shipped end to end. DevHexLab alone runs over 200 free developer tools, and the Power Platform extensions are used daily by makers around the world.
 
 Every project starts with a problem worth solving, not a technology worth using. Some have grown to serve thousands of users without ever being promoted, purely through word of mouth and organic discovery.
 

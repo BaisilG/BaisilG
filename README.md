@@ -12,8 +12,6 @@
 
 ---
 
----
-
 ## 💡 Who I Am
 
 ```typescript
@@ -211,6 +209,10 @@ I believe the best solutions are the ones people never have to think about. They
 <br/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaisilG&layout=compact&hide_border=true&langs_count=8&title_color=8b5cf6&text_color=374151&bg_color=faf5ff" />
+
+<br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=BaisilG&hide_border=true&bg_color=faf5ff&color=8b5cf6&line=6366f1&point=8b5cf6&area=true&title_color=8b5cf6" />
 
 </div>
 

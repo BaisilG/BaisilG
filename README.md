@@ -64,10 +64,15 @@ const baisil = {
 
 <div align="center">
 
-[![Microsoft AB-100](https://img.shields.io/badge/Microsoft_AB--100-Agentic_AI_Business_Solutions_Architect-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/BaisilGeevarghese/63CAF3A02F7EEE3A?sharingId=28454AC102F707A4)
+[![Microsoft AB-100](https://img.shields.io/badge/Microsoft_AB--100-Agentic_AI_Business_Solutions_Architect_Expert-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/baisilgeevarghese/credentials/63caf3a02f7eee3a)
 ![Microsoft PL-500](https://img.shields.io/badge/Microsoft_PL--500-Power_Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-Certified_RPA_Developer-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-Certified_Developer-FF6C37?style=for-the-badge&logoColor=white)
+
+<br/>
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-View_Verified_Profile-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/baisilgeevarghese/)
+[![About AB-100](https://img.shields.io/badge/About_the_AB--100-Certification_Details-5E5CE6?style=for-the-badge)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/)
 
 </div>
 
@@ -115,6 +120,8 @@ const baisil = {
 **🧠 AI Practice & Responsible Delivery**
 
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge&logoColor=white)
+![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-7E22CE?style=for-the-badge&logoColor=white)
+![AI Solution Architecture](https://img.shields.io/badge/AI_Solution_Architecture-4F46E5?style=for-the-badge&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6366F1?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Applied AI](https://img.shields.io/badge/Applied_AI-7C3AED?style=for-the-badge&logoColor=white)
